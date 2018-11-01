@@ -20,6 +20,8 @@
         android:textSize="25dp"
         android:paddingLeft="60dp"
         android:paddingRight="60dp"
+        android:fontFamily="casual"
+        android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
